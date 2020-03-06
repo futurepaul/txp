@@ -1,0 +1,11 @@
+[package]
+name        = "txp"
+version     = "0.0.0"
+description = "Parse bitcoin transactions"
+authors     = ["Paul Miller <paul@pauljmiller.com>", "RJ Rybarczyk <rj@rybar.tech>"]
+license     = "CC0-1.0"
+homepage    = "https://github.com/rrybarczyk/txp"
+readme      = "README.md"
+edition     = "2018"
+
+[dependencies]
