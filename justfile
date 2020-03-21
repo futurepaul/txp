@@ -13,3 +13,6 @@ run:
 publish:
 	cargo build
 	cargo publish
+
+wasm:
+  npm run build

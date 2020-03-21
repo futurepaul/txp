@@ -1,3 +1,3 @@
-mod run;
+mod wasm_example;
 
-pub use crate::run::run;
+pub use crate::wasm_example::hello_txp;
